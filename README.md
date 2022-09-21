@@ -13,7 +13,7 @@ Tech Stack
  <p> Hi 👋, I'm Sergio and I love building stuff. I'm passionate about web and software development and I'm now looking for a junior dev position to finally kick-start my career and learn among professionals. </p>
  
    <ul>
-     <li> 5 years experience as Customer Support Specialist (currently working @Streamloots) </li>
+     <li> 5 years experience as Customer Support Specialist</li>
      <li> Now studying:   
         <ul> 
           <li> Web App Development</li>   
