@@ -13,24 +13,23 @@ Tech Stack
  <p> Hi 👋, I'm Sergio. I'm passionate about web and software development. I'm looking for a junior dev position to finally kick-start my career and learn among professionals. </p>
  
    <ul>
-     <li> 5 years experience as Customer Support Specialist</li>
-     <li> Now studying:   
+   <li> 5 years experience as Customer Support Specialist</li>
+   <li> Now studying: </li>
         <ul>
 	<li> HTML </li>
         <li> CSS </li>
         <li> Python </li
 	<li> Flask </li>
 	<li> Django </li>
-
-        </ul>          
-     </li>  
-     <li> Hobbies:
+        </ul>
+	     
+<li> Hobbies: </li>
         <ul> 
           <li> Music </li>
           <li> Tech </li>
           <li> Languages </li>
           <li> Videogames </li>
-     </li>  
+     	</ul>  
    </ul> 
 </td>
 <td>
