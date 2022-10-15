@@ -15,9 +15,13 @@ Tech Stack
    <ul>
      <li> 5 years experience as Customer Support Specialist</li>
      <li> Now studying:   
-        <ul> 
-          <li> Web App Development</li>   
-          <li> Python </li> 
+        <ul>
+	<li> HTML </li>
+        <li> CSS </li>
+        <li> Python </li
+	<li> Flask </li>
+	<li> Django </li>
+
         </ul>          
      </li>  
      <li> Hobbies:
