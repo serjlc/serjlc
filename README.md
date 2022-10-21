@@ -10,7 +10,7 @@ Tech Stack
 
 <tr>
  <td width="70%">
- <p> Hi 👋, I'm Sergio. I'm passionate about web and software development. I'm looking for a junior dev position to finally kick-start my career and learn among professionals. </p>
+ <p> Passionate about web and software development. I'm looking for a junior dev position to finally kick-start my career and learn among professionals. </p>
  
    <ul>
    <li> 5 years experience as Customer Support Specialist</li>
